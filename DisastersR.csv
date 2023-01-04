@@ -1,0 +1,48 @@
+﻿Year,Disaster Group,Disaster Subgroup,Disaster Type,Disaster Subtype,Disaster Subsubtype,Event Name,Entry Criteria,Country,ISO,Region,Continent,Location,Latitude,Longitude,Origin,Associated Dis,Associated Dis2,OFDA Response,Appeal,Declaration,Aid Contribution,Dis Mag Value,Dis Mag Scale,Latitude,Longitude,Local Time,River Basin,Start Year,Start Month,Start Day,End Year,End Month,End Day,Total Deaths,No Injured,No Affected,No Homeless,Total Affected,Reconstruction Costs ('000 US$),Insured Damages ('000 US$),Total Damages ('000 US$),CPI
+2006,Natural,Hydrological,Flood,Flash flood,,,Affected,Mauritania,MRT,Western Africa,Africa,Adrar,14.42,-1.02,,,,,,,,,Km2,14.42,-1.02,,,2006,8,3,2006,10,11,,,,9000,9000,,,,78.85225551
+1984,Natural,Hydrological,Flood,,,,Affect,Mauritania,MRT,Western Africa,Africa,Adrar ,20.75,-10.25,,,,Yes,,,,,Km2,,,,,1984,9,21,1984,9,21,,,3000,,3000,,,,40.63380386
+1998,Natural,Biological,Epidemic,Viral disease,,Rift Valley fever,Affect,Mauritania,MRT,Western Africa,Africa,Aioun,16.6614,-9.6149,,,,,No,No,,,Vaccinated,,,,,1998,9,15,1998,10,25,6,,344,,344,,,,63.76045524
+2012,Technological,Technological,Transport accident,Road,,,Kill,Mauritania,MRT,Western Africa,Africa,Akjoujt,19.749997,-14.3833318,,,,,No,No,,,,,,,,2012,11,1,2012,11,1,10,25,,,25,,,,89.80529293
+2001,Natural,Hydrological,Flood,Riverine flood,,,Affect,Mauritania,MRT,Western Africa,Africa,Akjoujt ,19.749997,-14.3833318,,,,,,,,,Km2,,,,,2001,8,24,2001,8,24,,,,3000,3000,,,,69.25933995
+2010,Natural,Hydrological,Flood,Riverine flood,,,Affected,Mauritania,MRT,Western Africa,Africa,Aleg,16.245,-7.65,Torrential rains,,,,Yes,,,11046,Km2,16.245,-7.65,,,2010,9,19,2010,9,21,,,8750,,8750,,,,85.2920606
+2018,Technological,Technological,Transport accident,Road,,,Kill,Mauritania,MRT,Western Africa,Africa,Aleg,16.245,-7.65,,,,,,,,,,,,,,2018,11,7,2018,11,7,11,44,,,44,,,,98.21999062
+2001,Natural,Climatological,Drought,Drought,,,Affected,Mauritania,MRT,Western Africa,Africa,Assaba,16.58333,-11.58333,,Food shortage,,,Yes,,417,,Km2,,,,,2001,4,,2003,,,,,1000000,,1000000,,,,69.25933995
+2003,Natural,Hydrological,Flood,Riverine flood,,,Affected,Mauritania,MRT,Western Africa,Africa,Assaba,16.58333,-11.58333,Heavy rains,,,Yes,,,,,Km2,,,,Senegal river,2003,8,7,2003,8,20,9,,,21000,21000,,,,71.95500655
+2010,Natural,Climatological,Drought,Drought,,,Affected,Mauritania,MRT,Western Africa,Africa,Assaba,16.58333,-11.58333,Seasonal rain above the average in 2010 and 2011,Food shortage,,,Yes,,,,Km2,,,,,2010,,,2011,,,,,838000,,838000,,,,85.2920606
+2011,Natural,Climatological,Drought,Drought,,,Affected,Mauritania,MRT,Western Africa,Africa,Assaba,16.58333,-11.58333,Lack of rains,Food shortage,,Yes,,Yes,,,Km2,,,,,2011,,,2012,,,,,723000,,723000,,,,87.98460292
+2015,Technological,Technological,Transport accident,Road,,,Kill,Mauritania,MRT,Western Africa,Africa,Atar,20.75,-10.25,,,,,No,No,,,,,,,,2015,2,21,2015,2,21,14,20,,,20,,,,92.70882199
+1985,Natural,Hydrological,Flood,,,,Affect,Mauritania,MRT,Western Africa,Africa,Bassiknou,15.8499966,-5.934829594,,,,,,,,,Km2,,,,,1985,7,,1985,7,,,,6000,900,6900,,,,42.07452677
+2020,Natural,Hydrological,Flood,,,,Affected,Mauritania,MRT,Western Africa,Africa,Bassiknou,15.8499966,-5.934829594,Torrential rains,,,,,,,,Km2,,,,,2020,9,1,2020,9,8,,,9282,,9282,,,,
+1991,Natural,Meteorological,Storm,,,,Affect,Mauritania,MRT,Western Africa,Africa,Boutilimit,17.5166646,-14.7666636,,,,,,,,,Kph,,,,,1991,6,2,1991,6,2,4,300,,,300,,,,53.27115662
+1993,Natural,Climatological,Drought,Drought,,,,Mauritania,MRT,Western Africa,Africa,Brakna,17.25,-13.4,,,,,,,,,Km2,,,,,1993,,,1993,,,,,446507,,446507,,,,56.50464564
+2001,Natural,Climatological,Drought,Drought,,,Affected,Mauritania,MRT,Western Africa,Africa,Brakna,17.25,-13.4,,Food shortage,,,Yes,,417,,Km2,,,,,2001,4,,2003,,,,,1000000,,1000000,,,,69.25933995
+2006,Natural,Hydrological,Flood,Riverine flood,,,Affected,Mauritania,MRT,Western Africa,Africa,Brakna,17.75,-15,Heavy rains and storms,,,,,,,60,Km2,17.75,-15,,,2006,7,22,2006,7,24,7,19,,1600,1619,,,,78.85225551
+2017,Natural,Meteorological,Storm,Convective storm,Severe storm,,Kill,Mauritania,MRT,Western Africa,Africa,Brakna ,17.75,-15,,Flood,,,,,,,Kph,,,,,2017,9,4,2017,9,4,18,40,2000,,2040,,,,95.87816577
+1988,Natural,Biological,Epidemic,Bacterial disease,,Cholera,Kill,Mauritania,MRT,Western Africa,Africa,Gorgol,16.0499998,-12.8166634,,,,,,,,,Vaccinated,,,,,1988,8,,1988,8,,38,,575,,575,,,,46.25655683
+1993,Natural,Climatological,Drought,Drought,,,,Mauritania,MRT,Western Africa,Africa,Gorgol,16.0499998,-12.8166634,,,,,,,,,Km2,,,,,1993,,,1993,,,,,446507,,446507,,,,56.50464564
+2001,Natural,Climatological,Drought,Drought,,,Affected,Mauritania,MRT,Western Africa,Africa,Gorgol,16.0499998,-12.8166634,,Food shortage,,,Yes,,417,,Km2,,,,,2001,4,,2003,,,,,1000000,,1000000,,,,69.25933995
+2007,Natural,Hydrological,Flood,Riverine flood,,,Affected,Mauritania,MRT,Western Africa,Africa,Gorgol ,15.47,-13.97,heavy rain,,,,Yes,,,162800,Km2,15.47,-13.97,,Senegal river and tributaries,2007,8,31,2007,9,3,1,,500,,500,,,,81.10165893
+1982,Natural,Biological,Epidemic,Viral disease,,,OFDA,Mauritania,MRT,Western Africa,Africa,Guidimaka,14.96,-12.32722,,,,Yes,,,,,Vaccinated,,,,,1982,2,,1982,2,,5,,12,,12,,,,37.74582208
+1988,Natural,Biological,Epidemic,Bacterial disease,,Cholera,Kill,Mauritania,MRT,Western Africa,Africa,Guidimakha,14.96,-12.32722,,,,,,,,,Vaccinated,,,,,1988,8,,1988,8,,38,,575,,575,,,,46.25655683
+2005,Natural,Hydrological,Flood,Riverine flood,,,Affected,Mauritania,MRT,Western Africa,Africa,Guidimakha,16.55,-11.32,Heavy rains,Broken Dam/Burst bank,,Yes,,,,147100,Km2,,,,,2005,9,27,2005,9,30,,,7500,,7500,,,,76.38802721
+2007,Natural,Hydrological,Flood,Riverine flood,,,Affected,Mauritania,MRT,Western Africa,Africa,Guidimakha,16.55,-11.32,Heavy rains,,,,Yes,,,9500,Km2,16.55,-11.32,,,2007,8,7,2007,9,5,2,,53620,,53620,,,,81.10165893
+2017,Natural,Climatological,Drought,Drought,,,Affected,Mauritania,MRT,Western Africa,Africa,Guidimakha,14.96,-12.32722,Lack of rain,Food shortage,,,,,,,Km2,,,,,2017,4,,2017,8,,,,3893774,,3893774,,,,95.87816577
+1998,Technological,Technological,Transport accident,Air,,XIAN Y-7,Kill,Mauritania,MRT,Western Africa,Africa,Nema,16.61702,-7.25649,,,,,,,,,,,,,,1998,5,13,1998,5,13,39,3,,,3,,,,63.76045524
+2000,Technological,Technological,Transport accident,Water,,"Trawler ""Orcados""",Kill,Mauritania,MRT,Western Africa,Africa,Nouadhibou,20.93098,-17.03465,,,,,,,,,,,,,,2000,7,21,2000,7,21,13,,,,,,,,67.35575898
+2006,Technological,Technological,Transport accident,Water,,,Kill,Mauritania,MRT,Western Africa,Africa,Nouadhibou,20.93098,-17.03465,,,,,No,No,,,,,,,,2006,3,6,2006,3,6,19,,24,,24,,,,78.85225551
+2007,Technological,Technological,Transport accident,Water,,,Kill,Mauritania,MRT,Western Africa,Africa,Nouadhibou,20.93098,-17.03465,,,,,No,No,,,,,,,,2007,10,16,2007,11,5,56,,,,,,,,81.10165893
+1988,Natural,Biological,Epidemic,Bacterial disease,,Cholera,Kill,Mauritania,MRT,Western Africa,Africa,Nouakchott,18.079021,-15.965662,,,,,,,,,Vaccinated,,,,,1988,8,,1988,8,,38,,575,,575,,,,46.25655683
+1991,Natural,Meteorological,Storm,,,,Affect,Mauritania,MRT,Western Africa,Africa,Nouakchott,18.079021,-15.965662,,,,,,,,,Kph,,,,,1991,6,2,1991,6,2,4,300,,,300,,,,53.27115662
+1994,Technological,Technological,Transport accident,Air,,,Kill,Mauritania,MRT,Western Africa,Africa,Nouakchott,18.079021,-15.965662,,,,,,,,,,,,,,1994,7,1,1994,7,1,80,7,,,7,,,,57.97797424
+2005,Natural,Biological,Epidemic,Bacterial disease,,Cholera,Kill,Mauritania,MRT,Western Africa,Africa,Nouakchott,18.079021,-15.965662,,,,,No,No,,,Vaccinated,,,,,2005,7,20,2005,10,23,55,,2585,,2585,,,,76.38802721
+2011,Technological,Technological,Transport accident,Water,,,Kill,Mauritania,MRT,Western Africa,Africa,Nouakchott,18.079021,-15.965662,,,,,No,No,,,,,,,,2011,4,28,2011,4,29,12,,,,,,,,87.98460292
+2020,Natural,Hydrological,Flood,,,,Waiting,Mauritania,MRT,Western Africa,Africa,Nouakchott,18.079021,-15.965662,Heavy rains,,,,,,,,Km2,,,,,2020,9,1,2020,9,15,9,,10000,700,10700,,,,
+1999,Natural,Hydrological,Flood,Riverine flood,,,Declar/Int,Mauritania,MRT,Western Africa,Africa,Rosso,16.51378,-15.80503,,,,,,,,,Km2,,,,,1999,10,9,1999,10,9,,,200,,200,,,,65.15554686
+2013,Natural,Hydrological,Flood,Riverine flood,,,Affected,Mauritania,MRT,Western Africa,Africa,Rosso,16.51378,-15.80503,Heavy rains,,,Yes,,,,,Km2,,,,,2013,8,5,2013,9,25,8,,4225,2305,6530,,,2000,91.12079403
+2002,Natural,Hydrological,Flood,,,,Kill,Mauritania,MRT,Western Africa,Africa,Rosso ,16.51378,-15.80503,,,,Yes,,,,,Km2,,,,,2002,1,9,2002,1,9,25,,27500,,27500,,,,70.35781897
+2009,Natural,Hydrological,Flood,Riverine flood,,,Affected,Mauritania,MRT,Western Africa,Africa,Rosso ,16.51378,-15.80503,Heavy rains,,,Yes,,,50,,Km2,,,,,2009,8,28,2009,8,29,1,,10000,,10000,,,,83.91580741
+2019,Natural,Hydrological,Flood,,,,Waiting,Mauritania,MRT,Western Africa,Africa,Sélibaby,15.15846,-12.1843,Heavy rains,,,,,,,,Km2,,,,,2019,8,26,2019,8,27,3,,33600,,33600,,,,100
+2001,Technological,Technological,Transport accident,Water,,,Kill,Mauritania,MRT,Western Africa,Africa,Senegal river,16.50766464,-15.80299679,,,,,,,,,,,,,,2001,4,12,2001,4,12,11,,,,,,,,69.25933995
+2020,Natural,Climatological,Drought,Drought,,,Affected,Mauritania,MRT,Western Africa,Africa,Tagant,18.66667,-10.33333,,Food shortage,,,,,,,Km2,,,,,2020,6,,2020,11,,,,609000,,609000,,,,
+1965,Natural,Climatological,Drought,Drought,,,,Mauritania,MRT,Western Africa,Africa,Tichitt,18.43833158,-9.48833138,,,,Yes,,,,,Km2,,,,,1965,1,,1965,,,,,46000,,46000,,,,12.32443267
+1993,Natural,Climatological,Drought,Drought,,,,Mauritania,MRT,Western Africa,Africa,Trarza,17.9833294,-14.7333304,,,,,,,,,Km2,,,,,1993,,,1993,,,,,446507,,446507,,,,56.50464564
